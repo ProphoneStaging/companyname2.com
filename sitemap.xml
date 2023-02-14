@@ -5,42 +5,70 @@
 
     <url>
         <loc>https://companyname2.com/index</loc>
-        <lastmod>2022-11-30</lastmod>
+        <lastmod>2023-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://companyname2.com/store</loc>
-        <lastmod>2022-11-30</lastmod>
+        <loc>https://companyname2.com/service-Exterior-Painting</loc>
+        <lastmod>2023-02-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://companyname2.com/service-Interior-Painting</loc>
+        <lastmod>2023-02-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://companyname2.com/service-Kitchen-and-Cabinet-RefinishinG</loc>
+        <lastmod>2023-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://companyname2.com/reviews</loc>
-        <lastmod>2022-11-30</lastmod>
+        <lastmod>2023-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://companyname2.com/gallery-All</loc>
-        <lastmod>2022-11-30</lastmod>
+        <lastmod>2023-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://companyname2.com/gallery-a</loc>
-        <lastmod>2022-11-30</lastmod>
+        <loc>https://companyname2.com/gallery-Exterior-Painting</loc>
+        <lastmod>2023-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://companyname2.com/service-a</loc>
-        <lastmod>2022-11-30</lastmod>
+        <loc>https://companyname2.com/gallery-Interior-Painting</loc>
+        <lastmod>2023-02-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://companyname2.com/blog</loc>
+        <lastmod>2023-02-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://companyname2.com/store</loc>
+        <lastmod>2023-02-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
